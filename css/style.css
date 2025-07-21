@@ -37,7 +37,7 @@ nav {
 .s1 {
   height: 606px;
   background-color: lightblue;
-  background-image: url("/image/greece.jpg");
+  background-image: url("image/greece.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
